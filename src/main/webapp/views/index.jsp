@@ -12,6 +12,6 @@
     <link rel="stylesheet" type="text/css" href="../statics/css/index.css">
 </head>
 <body>
-    <h2>Test success!</h2>
+    <h2>Test success 哈哈1111111111111!</h2>
 </body>
 </html>
